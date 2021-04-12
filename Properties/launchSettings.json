@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Golf": {
+      "commandName": "Project"
+    },
+    "Test": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    }
+  }
+}
